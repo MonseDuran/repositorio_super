@@ -9,6 +9,7 @@ include_once "head.php";
 ?>
 
 <h3>Aqui va el CRUD</h3>
+<h2>Porbando el GITHUB</h2>
 <a href="nuevoproducto.php" class="btn btn-primary">Nuevo producto</a>
 <table class="table table-striped">
   <thead>
